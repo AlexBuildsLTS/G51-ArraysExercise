@@ -1,4 +1,4 @@
-package fullstackOS.org;
+package se.alex.lexicon;
 
 public class ArrayPrintInt {
     public static void main(String[] args) {

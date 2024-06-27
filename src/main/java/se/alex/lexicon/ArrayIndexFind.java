@@ -1,4 +1,4 @@
-package fullstackOS.org;
+package se.alex.lexicon;
 
 public class ArrayIndexFind {
     public static void main(String[] args) {
